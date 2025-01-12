@@ -8,7 +8,6 @@ public class testCodeApplication {
         int sum = a + b;
 
         int n = 3;
-        int myAdd = 60;
 
         if (a > 10) {
             System.out.println("Значение переменной a строго больше 10");
