@@ -6,10 +6,6 @@ public class testCodeApplication {
         int a = 10;
         int b = 20;
         int sum = a + b;
-
-        int n = 3;
-        int g = 4;
-
         if (a > 10) {
             System.out.println("Значение переменной a строго больше 10");
         }
