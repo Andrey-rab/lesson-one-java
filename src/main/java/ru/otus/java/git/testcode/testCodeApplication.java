@@ -18,5 +18,6 @@ public class testCodeApplication {
         if (a == b) {
             System.out.println("Значение переменной a равно значению переменной b");
         }
+        //test
     }
 }
