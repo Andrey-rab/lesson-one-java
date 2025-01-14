@@ -19,5 +19,6 @@ public class testCodeApplication {
             System.out.println("Значение переменной a равно значению переменной b");
         }
         //test
+        System.out.println("test branch");
     }
 }
